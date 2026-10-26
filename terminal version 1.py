@@ -1,4 +1,5 @@
 import time
+import webbrowser
 
 print("Terminal $>")
 
@@ -88,4 +89,34 @@ while True:
     elif user == "commands":
         print("init install package ~ initiating an installing simulation event in a terminal\nhelp ~ providing details where to find help to this program\n")
     elif user == "help":
-        print("go to this website: ")
+        print("go to this website:https://github.com/j34rom/Terminal-simulation-game/blob/main/terminal%20version%201.py\n")
+    elif user == "opn prn":
+        print("seach it for your self jerk")
+        time.sleep(1)
+        print("do yourself a favor")
+        time.sleep(1)
+        print("wait a moment")
+        time.sleep(1)
+        print("just wait a moment ok?")
+        time.sleep(1)
+        print("wait a moment we are figuring something")
+        time.sleep(3)
+        print("3")
+        time.sleep(1)
+        print("2")
+        time.sleep(1)
+        print(1)
+        time.sleep(1)
+        print("voilaaaaaaaaaa!!!!!!!!!!!!!!!")
+        time.sleep(0.5)
+        webbrowser.open("https://www.google.com")
+        print()
+    elif user == "spec p":
+        choice1 = input("do you want to continue?[y/n]: ")
+        if choice1 == "y":
+            print("You perverted jerk")
+            time.sleep(5)
+            webbrowser.open("https://www.google.com")
+            print()
+        else:
+            print("Good decision\n")
